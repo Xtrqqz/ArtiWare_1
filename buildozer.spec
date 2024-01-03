@@ -47,7 +47,7 @@ requirements = python3==3.7.6,hostpython3==3.7.6,kivy,camera4kivy,gestures4kivy,
 #presplash.filename = %(source.dir)s/data/presplash.png
 
 # (str) Icon of the application
-icon.filename = %(source.dir)s/data/artiware.png
+#icon.filename = %(source.dir)s/data/artiware.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = portrait
