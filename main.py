@@ -10,8 +10,7 @@ from menu import Menu, Pop_up
 from menu_2 import Menu_2
 
 
-Window.size=(400,800)
-Window.clearcolor = (0.23, 0.23 , 0.23, 1)
+
 class Interface(ScreenManager):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
